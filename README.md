@@ -1,6 +1,6 @@
-- 👋 Sup, I’m Jose Luis Moncada
+- 👋 Hi, I’m Jose Luis Moncada
 - 👀 Mostly interested in sustainable development projects
-- 🌱 Currently finishing my Informatics Engineering career
+- 💻 Degree in Software Engineering (2023)
 - 💞️ Looking to collaborate in projects related to SDGs
 - 📫 You can reach me at moncada.dev@gmail.com and my LinkedIn profile https://www.linkedin.com/in/jose-luis-moncada-o-1b7838183/
 
